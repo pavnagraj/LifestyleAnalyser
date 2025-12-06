@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+.env
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+venv/
+.idea/
+*.zip
